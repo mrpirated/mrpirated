@@ -24,7 +24,7 @@
 <hr/>
 <a href="https://github.com/mrpirated">
   <img width="45%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=mrpirated&count_private=true&show_icons=true&theme=dark" /> &nbsp; &nbsp;
-  <img width="45%" height="178cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpirated&layout=compact" />
+  <img width="45%" height="178cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpirated&layout=compact&theme=dark" />
 </a>
 
 
