@@ -5,7 +5,7 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/MrPirated?logo=true)](https://codeforces.com/profile/MrPirated)
 
 - 👨‍🎓 I’m a 3rd year student at MNNIT Allahabad
-- 💼 Full Stack Developer
+- 💼 Full Stack Developer/Freelancer
 - 📈 Constantly learning
 - 👯 Available for collaboration in projects
 
