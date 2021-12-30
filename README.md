@@ -5,7 +5,7 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/MrPirated?logo=true)](https://codeforces.com/profile/MrPirated)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpirated&label=Profile%20views&color=0e75b6&style=flat" alt="mrpirated" /> </p>
 - 👨‍🎓 I’m a 3rd year student at MNNIT Allahabad
-- 💼 Full Stack Developer
+- 💼 Full Stack Developer/Freelancer
 - 📈 Constantly learning
 - 👯 Available for collaboration in projects
 
