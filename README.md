@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Deepesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepesh-rathi-bb54051a3/)](https://www.linkedin.com/in/deepesh-rathi-bb54051a3/)
 [![Badge](https://cp-logo.vercel.app/codechef/dprathi?logo=true)](https://www.codechef.com/users/dprathi)
 [![Badge](https://cp-logo.vercel.app/codeforces/MrPirated?logo=true)](https://codeforces.com/profile/MrPirated)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpirated&label=Profile%20views&color=0e75b6&style=flat" alt="mrpirated" /> </p>
 - 👨‍🎓 I’m a 3rd year student at MNNIT Allahabad
 - 💼 Full Stack Developer
 - 📈 Constantly learning
