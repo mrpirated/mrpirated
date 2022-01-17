@@ -26,13 +26,7 @@
   <img width="50%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=mrpirated&count_private=true&show_icons=true&theme=dark" /> &nbsp; &nbsp;
   <img width="43%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpirated&layout=compact&theme=dark&langs_count=10" />
 </a>
-<!-- <br />
-<br />
 <hr/>
-<a href="https://github.com/mrpirated/Decentralized-Banking-System" >
-  <img width="49%" height="180cm" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpirated&repo=Decentralized-Banking-System" 
-  /> </a>
-  <a href="">
-  <img width="49%" height="180cm" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpirated&repo=Decentralized-Banking-System" /></a>
-
- -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrpirated&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
