@@ -4,11 +4,6 @@
 [![Badge](https://cp-logo.vercel.app/codechef/dprathi?logo=true)](https://www.codechef.com/users/dprathi)
 [![Badge](https://cp-logo.vercel.app/codeforces/MrPirated?logo=true)](https://codeforces.com/profile/MrPirated)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpirated&label=Profile%20views&color=0e75b6&style=flat" alt="mrpirated" /> </p>
-- 👨‍🎓 I’m a final year student at MNNIT Allahabad
-- 💼 Full Stack Developer/Freelancer
-- 📈 Constantly learning
-- 👯 Available for collaboration in projects
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
